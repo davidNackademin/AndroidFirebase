@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "702349973602",
+    "firebase_url": "https://wed21marsfirebase.firebaseio.com",
+    "project_id": "wed21marsfirebase",
+    "storage_bucket": "wed21marsfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702349973602:android:3a55b220c1b28117",
+        "android_client_info": {
+          "package_name": "com.example.david.wed21marsfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702349973602-67r4mfqo5pvhcl4um5ueo610a57rgeia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.david.wed21marsfirebase",
+            "certificate_hash": "862b07247b4717b2d6bba5bef6b359bf68cb8636"
+          }
+        },
+        {
+          "client_id": "702349973602-sq0bd1fire3974rbp4pmfhfc693nfe57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHXHh7pIaOlCyDzEGOgt3oqdzzKWqfRjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702349973602-sq0bd1fire3974rbp4pmfhfc693nfe57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
